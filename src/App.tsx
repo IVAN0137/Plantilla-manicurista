@@ -1,6 +1,7 @@
 import { Heart, Instagram, MapPin, Phone } from 'lucide-react';
-import { Button } from "@/components/ui/button";
+import { Button } from "./components/ui/button";
 import { Card } from "@/components/ui/card";
+
 
 const services = [
   {
